@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Rammstein-info-ReactJS/static/css/main.819e33b3.chunk.css",
+    "main.js": "/Rammstein-info-ReactJS/static/js/main.4344c056.chunk.js",
+    "main.js.map": "/Rammstein-info-ReactJS/static/js/main.4344c056.chunk.js.map",
+    "runtime-main.js": "/Rammstein-info-ReactJS/static/js/runtime-main.350b7404.js",
+    "runtime-main.js.map": "/Rammstein-info-ReactJS/static/js/runtime-main.350b7404.js.map",
+    "static/js/2.ec84c8cd.chunk.js": "/Rammstein-info-ReactJS/static/js/2.ec84c8cd.chunk.js",
+    "static/js/2.ec84c8cd.chunk.js.map": "/Rammstein-info-ReactJS/static/js/2.ec84c8cd.chunk.js.map",
+    "index.html": "/Rammstein-info-ReactJS/index.html",
+    "precache-manifest.7101859e9dce10de851bd4517ffdf9a1.js": "/Rammstein-info-ReactJS/precache-manifest.7101859e9dce10de851bd4517ffdf9a1.js",
+    "service-worker.js": "/Rammstein-info-ReactJS/service-worker.js",
+    "static/css/main.819e33b3.chunk.css.map": "/Rammstein-info-ReactJS/static/css/main.819e33b3.chunk.css.map",
+    "static/js/2.ec84c8cd.chunk.js.LICENSE.txt": "/Rammstein-info-ReactJS/static/js/2.ec84c8cd.chunk.js.LICENSE.txt",
+    "static/media/Rammstein - Ich Tu Dir Weh.mp4": "/Rammstein-info-ReactJS/static/media/Rammstein - Ich Tu Dir Weh.0adb0eb1.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.350b7404.js",
+    "static/js/2.ec84c8cd.chunk.js",
+    "static/css/main.819e33b3.chunk.css",
+    "static/js/main.4344c056.chunk.js"
+  ]
+}
